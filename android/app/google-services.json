@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "958743677498",
+    "project_id": "winj-84ea7",
+    "storage_bucket": "winj-84ea7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958743677498:android:dfd808ff12a9e5cab6c303",
+        "android_client_info": {
+          "package_name": "com.example.winj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZtDe7NNU6PiK0U8kHhKtxIbTGSkgzjjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
