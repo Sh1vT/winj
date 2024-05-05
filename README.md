@@ -1,16 +1,10 @@
-# winj
+# WinJ
 
-A new Flutter project.
+Who is in Jagat
+Current version: 0.050524
 
-## Getting Started
+This project is aimed for students of my college. Students who are in the common market: Jagat Farm, can update their presence in the central database. The app fetches data from this database and lists the most recent entries (30 mins). All the other students can look at these entries in realtime and call them on provided numbers to get items from the market.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Future updates may be implemented: such as messaging features, group creation etc. depending on the app's popularity and if I get time for it. 
+Feel free to drop suggestions. 
+## The app was made in Flutter using Firestore database.
